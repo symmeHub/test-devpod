@@ -1,0 +1,47 @@
+# Install apt package 
+apt-get update && apt-get install -y \
+    build-essential \
+    cmake \
+    libncurses5-dev \
+    libncursesw5-dev \
+    libv4l-dev \
+    libxcursor-dev \
+    libxcomposite-dev \
+    libxdamage-dev \
+    libxrandr-dev \
+    libxtst-dev \
+    libxss-dev \
+    libdbus-1-dev \
+    libevent-dev \
+    libfontconfig1-dev \
+    libcap-dev \
+    libpulse-dev \
+    libudev-dev \
+    libpci-dev \
+    libnss3-dev \
+    libasound2-dev \
+    libegl1-mesa-dev \
+    net-tools \
+    bluez \
+    libbluetooth-dev \
+    libglib2.0-dev \
+    libdbus-1-dev \
+    libusb-dev \
+    libudev-dev \
+    libical-dev \
+    systemd \
+    libreadline-dev \
+    ffmpeg \
+    x11-apps \
+    xauth \
+    git \
+    wget \
+    sudo \
+    gperf \
+    bison \
+    nodejs \
+    htop \
+    curl \
+    locales \
+    usbutils \
+    dbus
