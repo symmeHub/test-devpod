@@ -1,5 +1,6 @@
 FROM mcr.microsoft.com/devcontainers/base:jammy
 
+RUN mkdir /tmp/devpod-celmo
 
 ARG CONDA_ENV_NAME=record
 ENV CONDA_ENV_NAME=${CONDA_ENV_NAME}
